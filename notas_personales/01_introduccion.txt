@@ -1,0 +1,41 @@
+Calulo Vectorial => calculo multivaribale
+
+Calculo => una sola magnitud o variable
+
+Vector => - Magnitud, Sentido , direccion
+          
+Se expresa en el plano cartesiano.
+
+v = (3, 2)
+
+Operaciones con vectores => suma y resta
+
+v1 = (3, 2) v2 = (6, 2) => (v1x + v2x , v1y + v2y) = (9, 4)
+v1 = (3, 2) v2 = (6, 2) => (v1x - v2x , v1y - v2y) = (-3, 0)
+
+
+Multiplicacion por un escalar
+
+escalar => numero real puede ser positivo o negativo
+
+
+Vector Nulo aquel que tiene como valor 0.
+Example => A = B
+Ambos vectores tienen los mismos valores
+A - B = 0
+se expresa como 0.
+
+Vector propio aquel que tiene valores en Magnitud, sentido y direccion.
+v1 = (3, 2)
+
+
+
+expl
+  escalar = 2
+  v2 =(9, 2) * escalar
+  2v = (9, 2)
+  proceso
+      (escalar * v2x, escalar * v2y)
+
+  resultado = (18, 4)
+  

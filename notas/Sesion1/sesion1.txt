@@ -1,0 +1,52 @@
+Lic. Valdovinos Chacon
+
+PRESENTACION
+Nombre:
+Carrera:
+Pandemia:
+Que espero de la materia:
+
+SYLABUS:
+  - Correo: gonzalo_valdovinos@my.uvm.edu.mx
+  - Valores Principales: Integridad en el actuar, Calidad en la ejecucion,
+    excelencia => aporta un plus, dar mas de lo que pide.
+  - Perfil de egreso.
+  - 3 horas con el docente
+  - 3 horas de aprendizaje independiente
+  - 90 horas al semestre
+  - Miercoles y viernes 7:30 - 9:00  
+FECHAS FERIADAS:
+  - 16 de septiembre
+  - 2 y 16 de noviembre
+FIN SEMESTRE:
+  - 19 de diciembre cerramos semestre
+FECHA DE EXAMENES:
+  - 1er 7 de octubre
+  - 2do 11 de noviembre
+  - 3er 16 de diciembre
+TEMARIO:
+  - Calculo de varias variables
+  - 1ra Ecuaciones Parametricas coordenadas polares, vectores y geometria del
+    espacio
+  - 2nda Funciones vectoriales de variable real
+  - 3ero Derivadas Parciales y de orden superior
+  - 4to Integracion con funciones de varias variables
+CRITERIOS DE EVAL:
+  Primer Parcial:
+  - Tarea => 20%
+  - Serie de ejercicios => 40%
+  - Examen => 40%
+  Segundo Parcial:
+  - Tareas  => 20%
+  - Serie de ejercicios => 40%
+  - Exame => 40%
+  Tercer Parcial:
+  - Tareas  => 20%
+  - Serie de ejercicios => 40%
+  - Exame => 40%
+
+
+ Libros recomendados:
+- Calculo de varias variables cuarta edicion DENIS G. ZILL 
+- Analisis vetorial Edit McGra-Hill 2011 MURRAY R
+
